@@ -342,11 +342,13 @@ newman run APITesting.postman_collection.json -e APITesting.postman_environment.
 newman run APITesting.postman_collection.json -e APITesting.postman_environment.json -r htmlextra
 ```
 
-## Newman Report Summary:
-
+## Newman Summary Report :
 ![Newman Summary Report](./Images_Of_Newman_Report/Newman%20Summary%20Report.png)
+## Newman Total Request Report:
 ![Newman Total Request Report](./Images_Of_Newman_Report/Newman%20Total%20Request%20Report.png)
+## Newman Failed Report :
 ![Newman Failed Report](./Images_Of_Newman_Report/Newman%20Failed%20Report.png)
+## Newman Skipped Report :
 ![Newman Skipped Report](./Images_Of_Newman_Report/Newman%20Skipped%20Report.png)
 
 
