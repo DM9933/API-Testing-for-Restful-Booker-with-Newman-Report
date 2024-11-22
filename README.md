@@ -326,7 +326,7 @@ if(statusCode == 200){
     "additionalneeds": "Breakfast"
 }
 
- ## _**5. Delete Booking Record**_
+ ## _**6. Delete Booking Record**_
 
 ### Request URL: https://restful-booker.herokuapp.com/booking/bookingid
 ### Request Method: DELETE
