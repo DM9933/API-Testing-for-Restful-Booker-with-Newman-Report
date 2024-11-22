@@ -340,7 +340,7 @@ newman run APITesting.postman_collection.json -e APITesting.postman_environment.
 - Run Command for Report: 
 ```console 
 newman run APITesting.postman_collection.json -e APITesting.postman_environment.json -r htmlextra
-
+```
 
 ## Newman Report Summary:
 ![Newman Report Summary](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/56d08c4a-dfa9-4aa3-8d52-23ccbdf25a10)
