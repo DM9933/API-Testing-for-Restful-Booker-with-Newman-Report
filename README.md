@@ -343,7 +343,7 @@ newman run APITesting.postman_collection.json -e APITesting.postman_environment.
 ```
 
 ## Newman Report Summary:
-![Newman Report Summary](https://tinyurl.com/235y56ow)
-![Newman Report Summary](https://tinyurl.com/2dkgszmn)
-![image](https://tinyurl.com/26ss3fq2)
-![Newman Report Summary](https://tinyurl.com/235y56ow)
+![Newman Report Summary](https://www.awesomescreenshot.com/image/51709610?key=e06655a35dc79be77df527c874a7df02)
+![Newman Report Summary](https://www.awesomescreenshot.com/image/51709600?key=a82e353adf92a4fd0f3d59b32da3119c)
+![image](https://www.awesomescreenshot.com/image/51709551?key=a0a644f2c9705f22a11a8b5566ac02fc)
+![Newman Report Summary](https://www.awesomescreenshot.com/image/51709825?key=aae70734063191e2cef1bcc73e2ef41b)
